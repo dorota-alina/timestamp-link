@@ -2,16 +2,16 @@
 
 ## Purpose
 
-Learn how to filter out all the YouTube videos that have been uploaded this week and are not longer
-than 4 minutes.
+Learn how to generate a link that can take you to a specific time point in the YouTube video.
 
 ## Prerequisites
 
-* YouTube account
+* **Comments** option needs to be enabled for a video that you want to link to.
+* Video to be linked to cannot be a live stream.
 
-## Search YouTube
+## Generate a link to a time point
 
-To filter out last week's YouTube videos that are under 4-min-long, you can either check the [video instruction](#video-instruction) or follow the [step-by-step guideline](#step-by-step).
+To find out how to link to a specific time point in your video, you can either check the [video instruction](#video-instruction) or follow the [step-by-step guideline](#step-by-step).
 
 ### Video instruction
 
@@ -21,20 +21,34 @@ https://user-images.githubusercontent.com/63733226/129481087-cc275074-d9fa-4978-
 
 ### Step-by-step
 
-1. Go to your browser and navigate to [YouTube](https://www.youtube.com/).
+1. Go to your browser and navigate to a [YouTube](https://www.youtube.com/) video that you need a time-point link for.
+   
+   ***NOTE***
+   
+   Signing in to your YouTube account is optional.
 
-2. Sign in to your account.
+3. From the YouTube page that opens, select **SHARE** under the video area, to the right.
 
-3. In your YouTube homepage, enter any term into the **Search** field and launch the search with **ENTER/RETURN/loop icon**.
+4. In the **Share** pop-up window, select the **Start at** checkbox, enter the time that you want to link to, and select **COPY** next to the link to be shared.
 
-4. Select **FILTERS** from the top left corner of the results page displayed.
+   ***RESULT***
+   
+   After selecting **COPY**, the link gets updated so that it leads to the time you specified for the **Start at** checkbox.
+   
+## Check how it works
 
-5. From the **UPLOAD DATE** column, select **This week**.
+1. Open a new tab in you browser.
 
-6. Again, select **FILTERS** from the top left corner of the results page displayed.
+2. Paste the copied link.
 
-7. This time, select **Under 4 minutes** from the **DURATION** column.
+3. Hit **ENTER** (**return**).
+
+4. Check if the video opens at a time that you tried to link to.
 
 ***RESULT***
 
-YouTube displays the list of all the videos up-to-4-min-long uploaded this week.
+You get a link that leads to a specific time point in the YouTube video. With the link, you're able to launch your video starting at a specific time.
+
+***NOTE***
+
+An alternative way to generate a time-point link to the YouTube video is using the **Copy video URL at current time** option, which is available after pausing your video at a desired time and right-clicking withing the video area so that the context menu shows up.
